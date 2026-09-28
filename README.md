@@ -1,15 +1,15 @@
 # Blackjack Probability Game
 
-A C++ command-line Blackjack program that calculates the probability of safely drawing another card and provides a probability-based hit-or-stay suggestion.
+A C++ console Blackjack program that calculates the probability of safely drawing another card and provides a suggestion to hit or stay based on probability.
 
 ## Features
 
 - Builds and shuffles a 52-card deck
-- Deals an initial two-card hand
+- Deals an initial hand of two cards
 - Calculates Blackjack hand values
 - Handles Aces as either 11 or 1 when needed
 - Calculates the percentage of remaining cards that are safe or would cause a bust
-- Provides a probability-based hit-or-stay suggestion
+- Provides a suggestion to hit or stay based on probability
 - Allows multiple hits during a round
 - Supports multiple rounds
 
